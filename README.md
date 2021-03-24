@@ -1,4 +1,4 @@
-### Hi 👋, I'm Jesse Neal
+### Hi, I'm Jesse Neal
 
 I am a Sr Site Reliability Engineer (SRE) at iManage currently migrating iManage's move to Azure and Azure's Kubernetes Service, using tools such as Terraform, Docker, Kubernetes, Helm and Argo CD.
 
