@@ -1,6 +1,6 @@
 ### Hi, I'm Jesse Neal
 
-I am a Sr Site Reliability Engineer (SRE) at HashiCorp
+I am a Sr. Site Reliability Engineer (SRE) at HashiCorp
 
 * 📫  How to reach me: Message me via LinkedIn: [jesseneal](https://www.linkedin.com/in/jesseneal/) 
 * 🔨 What I'm working on: Cloud Infrastrucutre for HashiCorp
