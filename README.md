@@ -2,9 +2,8 @@
 
 I am a Sr. Site Reliability Engineer (SRE) at HashiCorp
 
-* 📫  How to reach me: Message me via LinkedIn: [jesseneal](https://www.linkedin.com/in/jesseneal/) 
-* 🔨 What I'm working on: Cloud Infra, Tooling, and Automation for HashiCorp
-* ⚡ Fun fact: I can juggle
+- 📫  How to reach me: Message me via LinkedIn: [jesseneal](https://www.linkedin.com/in/jesseneal/) 
+- 🔭 I’m currently working on: Cloud Infra, Tooling, and Automation for [HCP](https://cloud.hashicorp.com/) at HashiCorp
 <!--
 **jesseneal/jesseneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
